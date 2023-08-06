@@ -1,5 +1,5 @@
 ## Projeto agenda
-- arquitetura monólito
+- arquitetura monolítica
 - crud completo
 - Web
 - JavaEE
